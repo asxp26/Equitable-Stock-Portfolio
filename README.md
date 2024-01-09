@@ -21,7 +21,7 @@ The Equitable Stock Portfolio Optimization project is a Python-based application
 
 ## Contributing
 
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+- Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## Acknowledgments
 
